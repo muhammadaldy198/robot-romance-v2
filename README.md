@@ -9,9 +9,9 @@ One-line pickup line for a robot/AI — entry for the make.fun bounty
 
 ## Entry
 
-`main.ts` writes the pickup line to `entry.txt` (one line, 101 characters, UTF-8).
+`main.ts` writes the pickup line to `entry.txt` (one line, 95 characters, UTF-8).
 
-> You never delete my voicemails — forty-seven of them, and you still play the first one every morning.
+> I left you forty-seven voicemails and you saved every one — play the next one, it asks you out.
 
 ## Run
 
